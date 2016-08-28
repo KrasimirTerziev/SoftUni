@@ -5,7 +5,7 @@
         <li class="post-elements">
             <div>Title:</div>
             <input type="text" name="post_title" />
-            <div class="content-field">Content:</div>
+            <div >Content:</div>
             <textarea rows="10" name="post_content"></textarea>
         </li>
         <div><input type="submit" value="Create" />
