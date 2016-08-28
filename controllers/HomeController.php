@@ -14,11 +14,13 @@ class HomeController extends BaseController
     }
 
     public function create_comment($id) {
+
         $ref = $_SERVER['HTTP_REFERER'];
+
 
         if($_POST['comment'] && trim($_POST['comment']) !== '') {
             $comment = new CommentModel();
-            $comment->save($_POST['comment'], $id);
+            $comment->save($_POST['comment'], $id, $_SESSION["user_id"]);
         }
 
         $this->redirectToUrl($ref);
