@@ -56,6 +56,14 @@ class PostsModel extends BaseModel
 
     }
 
+    public function incrementByOne($postId)
+    {
+
+        $postData = self::getById($postId);
+        $currentPageView = $postData["page_view"];
+        $incrementedPageView = $currentPageView + 1;
+        self::$db->query("update posts set page_view = ".$incrementedPageView." where id=".$postId);
+    }
     
 
 }

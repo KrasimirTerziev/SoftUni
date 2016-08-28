@@ -4,6 +4,12 @@
 
 <main id="posts">
     <article class="view-post">
+        <div class="date"><i>Seen by</i>
+            <?=htmlentities($this->post['page_view'])?>
+        </div>
+        <p class="content"><?=$this->post['content']?></p>
+    </article>
+    <article class="view-post">
         <div class="date"><i>Posted on</i>
             <?=(new DateTime($this->post['date']))->format('d-M-Y')?>
             <i>by</i> <?=htmlentities($this->post['full_name'])?>

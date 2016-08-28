@@ -9,6 +9,8 @@ class HomeController extends BaseController
     }
 	
 	function view($id) {
+        $postModel = new PostsModel();
+        $postModel->incrementByOne($id);
         $this->post = $this->model->getPostById($id);
         $this->comments = $this->model->getCommentsByPostID($id);
     }
