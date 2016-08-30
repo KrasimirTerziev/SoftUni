@@ -518,3 +518,31 @@ main>article>p>b>a{
 .delete div{
     margin: 5px;
 }
+
+.post-content{
+    width: 100%;
+    height: 250px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+.post_title{
+    background-color: white;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    width: 100%;
+    height: 30px;
+}
+.post-text{
+    color: #565656;
+    font-size: 25px;
+}
