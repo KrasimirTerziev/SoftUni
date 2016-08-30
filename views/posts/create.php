@@ -8,7 +8,7 @@
             <div >Content:</div>
             <textarea rows="10" name="post_content"></textarea>
         </li>
-        <div><input type="submit" value="Create" />
-        <a href="<?=APP_ROOT?>/posts">[Cancel]</a></div>
+        <div class="button-second"><input class="submit" type="submit" value="Create" />
+        <a href="<?=APP_ROOT?>/posts">Cancel</a></div>
     </form>
 </div>
