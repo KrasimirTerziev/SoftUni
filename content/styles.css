@@ -546,3 +546,67 @@ main>article>p>b>a{
     color: #565656;
     font-size: 25px;
 }
+
+.delete-text{
+    width: 80%;
+    height: 250px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+.delete-title{
+    background-color: white;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    width: 80%;
+    height: 30px;
+}
+
+.delete{
+    color: #565656;
+    font-size: 18px;
+}
+
+.button-second a{
+    background-color: #06afc0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-second a:hover{
+
+    transition: background 0.7s ease,
+    padding 0.5s linear;
+    background: lightblue;
+}
+
+.submit {
+    background-color: #06afc0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.submit:hover{
+    transition: background 0.7s ease,
+    padding 0.5s linear;
+    background: lightblue;
+}
