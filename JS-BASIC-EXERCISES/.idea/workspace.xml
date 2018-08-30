@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccf3c995-f94b-4dac-a5f6-15b03d3fe8b5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/04.StopWatch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/03. DeleteFromTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/03. DeleteFromTable.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Print an Array with a given Delimiter.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/PrintArray.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Rotate.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SrotArray.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SortArray.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/DiagonalAttack.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SpiralMatrix.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/AddRemovEelement.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/NonDecreasingSubsequence.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/PrintEveryN-thElement.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/MagicMatrices.js" />
+        <option value="$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Orbit.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/RepeatString.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/Delimiter.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/CheckString.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/CheckStringEnd.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/CaptureTheNumbers.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/SecretData.js" />
+        <option value="$PROJECT_DIR$/STRINGS AND REGEXP/FindVariableNamesinSentences.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/ListOfItems.js" />
+        <option value="$PROJECT_DIR$/JS Advanced/ListOfItems.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/01. ListOfItems.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/02. AddDeleteItems.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/02. AddDeleteItems.html" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/UniqueSequences.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/01.TownsToJson.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/ScoreToHTML.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/FUNCTIONS/HTMLEscaping.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/02.ScoreToHTML.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.FromJSONtoHTMLTable.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.FromJsonToHTMLTable.html" />
+        <option value="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.From JSON to HTML Table.txt" />
+        <option value="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/03. DeleteFromTable.html" />
+        <option value="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/04.StopWatch.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS-BASIC-EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-BASIC-EXERCISES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-BASIC-EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-BASIC-EXERCISES" type="462c0819:PsiDirectoryNode" />
+              <item name="FUNCTIONS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-BASIC-EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-BASIC-EXERCISES" type="462c0819:PsiDirectoryNode" />
+              <item name="STRINGS AND REGEX" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.03.FromJsonToHTMLTable.html">
+    <configuration name="03.FromJsonToHTMLTable.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-CORE/JS Fundamentals/OBJECTS AND JSON/03.FromJsonToHTMLTable.html" />
+    <configuration name="01.TownsToJson.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="01.TownsToJson.js" working-dir="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON" />
+    <configuration name="02.ScoreToHTML.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="02.ScoreToHTML.js" working-dir="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON" />
+    <configuration name="FindVariableNamesinSentences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="FindVariableNamesinSentences.js" working-dir="$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS" />
+    <configuration name="UniqueSequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="UniqueSequences.js" working-dir="$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON" />
+    <list>
+      <item itemvalue="Node.js.FindVariableNamesinSentences.js" />
+      <item itemvalue="Node.js.UniqueSequences.js" />
+      <item itemvalue="Node.js.01.TownsToJson.js" />
+      <item itemvalue="Node.js.02.ScoreToHTML.js" />
+      <item itemvalue="JavaScript Debug.03.FromJsonToHTMLTable.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.03.FromJsonToHTMLTable.html" />
+        <item itemvalue="Node.js.02.ScoreToHTML.js" />
+        <item itemvalue="Node.js.01.TownsToJson.js" />
+        <item itemvalue="Node.js.UniqueSequences.js" />
+        <item itemvalue="Node.js.FindVariableNamesinSentences.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf3c995-f94b-4dac-a5f6-15b03d3fe8b5" name="Default" comment="" />
+      <created>1527646604445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527646604445</updated>
+      <workItem from="1527646605764" duration="898000" />
+      <workItem from="1527713554209" duration="1632000" />
+      <workItem from="1527812491239" duration="1944000" />
+      <workItem from="1527985721364" duration="10774000" />
+      <workItem from="1528060303095" duration="2587000" />
+      <workItem from="1528281728719" duration="5854000" />
+      <workItem from="1528383892077" duration="6307000" />
+      <workItem from="1529152984052" duration="4816000" />
+      <workItem from="1529239566301" duration="9934000" />
+      <workItem from="1529324945784" duration="10172000" />
+      <workItem from="1535447208381" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27498677" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31014493" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.250342" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32028985" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/03. DeleteFromTable.html" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/CaptureTheNumbers.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/PrintArray.js" />
+    <entry file="file://$PROJECT_DIR$/FUNCTIONS/Calculator.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Print an Array with a given Delimiter.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SrotArray.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/DiagonalAttack.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/AddRemovEelement.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/NonDecreasingSubsequence.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/PrintEveryN-thElement.js" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Orbit.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/CaptureTheNumbers.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/Delimiter.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/CheckString.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/RepeatString.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/CheckStringEnd.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/FindVariableNamesinSentences.js" />
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEXP/SecretData.js" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/ListOfItems.js" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/ListOfItems.html" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/01. ListOfItems.html" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/02. AddDeleteItems.html" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/EXERCISE ARRAYS AND MATRICES/AddRemovEelement.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/01.TownsToJson.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/ScoreToHTML.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.FromJSONtoHTMLTable.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/FUNCTIONS/HTMLEscaping.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/02.ScoreToHTML.js" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.From JSON to HTML Table.txt" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/03.FromJsonToHTMLTable.html" />
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals/OBJECTS AND JSON/UniqueSequences.js" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/01. ListOfItems.html" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/02. AddDeleteItems.html" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/03. DeleteFromTable.html" />
+    <entry file="file://$PROJECT_DIR$/JS Advanced/DOM MANIPULATIONS/04.StopWatch.html" />
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/MagicMatrices.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/Rotate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SortArray.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/SpiralMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FUNCTIONS/HTMLEscaping.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FUNCTIONS/ImmediatelyInvokedFunctionExpression.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FUNCTIONS/TriangleOfStars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STRINGS AND REGEX/CaptureTheNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXERCISE ARRAYS AND MATRICES/PrintArray.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

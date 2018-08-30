@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<h1>List of Items</h1>
+<ul id="items"></ul>
+<input type="text" id="newText"/>
+<input type="button" value="Add"  onclick="addItem()">
+<script>
+    function addItem() {
+        //Implement [Delete] action as link after each list item
+        let inputElement = document.getElementById("newText");
+        if (inputElement.value.trim() !== '') {
+            let li = document.createElement('li');
+            li.textContent = inputElement.value;
+            let a = document.createElement('a');
+            a.href = '#';
+            a.textContent = '[Delete]';
+
+            a.addEventListener('click', function (){
+                 let forDelete = event.target.parentNode;
+                 forDelete.parentNode.removeChild(forDelete);
+            });
+
+            li.appendChild(a);
+            document.getElementById("items").appendChild(li);
+            inputElement.value = "";
+        }
+    }
+</script>
+</body>
+</html>
