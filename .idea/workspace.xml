@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bd999b6-c9f7-42f0-953a-548f681673de" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="03. Sum Two Numbers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/ReverseString.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/05. Sum Reversed Numbers.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/06. Index of letters.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/07. Index of letters.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/05. Most frequent number.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/06. Max sequence of increasing elements.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/01. Cooking by numbers.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/02. Modify Average.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Validity Checker.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Validity Checker.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/LastDigitsName.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Last Digit Name.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. LastDigitName.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/04. Number in reverse order.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/05. Opinion Poll.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/06. Company Roster.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/001. Task/Task 001.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/07. Game.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/Tasks.txt" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.module" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/02. Dump an HTTP GET Request.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP-Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP-Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="03. Exercise HTTP and HTML Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.05. Opinion Poll.module">
+    <configuration name="03. Last Digit Name.module" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SoftUni/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Last Digit Name.module" />
+    <configuration name="03. Validity Checker.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Validity Checker.php" />
+    <configuration name="03. Validity Checker.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP-Exercises/03. Validity Checker.php" />
+    <configuration name="04. Number in reverse order.module" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/04. Number in reverse order.module" />
+    <configuration name="05. Opinion Poll.module" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/05. Opinion Poll.module" />
+    <configuration name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. LastDigitName.module" />
+    <list>
+      <item itemvalue="PHP Script.Unnamed" />
+      <item itemvalue="JavaScript Debug.03. Last Digit Name.module" />
+      <item itemvalue="PHP Script.03. Validity Checker.php" />
+      <item itemvalue="PHP Script.03. Validity Checker.php (1)" />
+      <item itemvalue="PHP Script.04. Number in reverse order.module" />
+      <item itemvalue="PHP Script.05. Opinion Poll.module" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.05. Opinion Poll.module" />
+        <item itemvalue="PHP Script.04. Number in reverse order.module" />
+        <item itemvalue="JavaScript Debug.03. Last Digit Name.module" />
+        <item itemvalue="PHP Script.03. Validity Checker.php (1)" />
+        <item itemvalue="PHP Script.03. Validity Checker.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd999b6-c9f7-42f0-953a-548f681673de" name="Default" comment="" />
+      <created>1538561499052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538561499052</updated>
+      <workItem from="1538561500241" duration="4678000" />
+      <workItem from="1538654277667" duration="624000" />
+      <workItem from="1538657345292" duration="5387000" />
+      <workItem from="1539001082781" duration="481000" />
+      <workItem from="1539001581661" duration="9699000" />
+      <workItem from="1539785934350" duration="3377000" />
+      <workItem from="1539802405549" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24659000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="1032" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33681765" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329849" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31108597" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Last Digit Name.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Validity Checker.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/02. Modify Average.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/.idea/php.xml" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/ReverseString.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/01. Sum Towns.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/02. Counting letters in text.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/03. Search.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/04. ReverseString.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/06. Index of letters.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/05. Sum Reversed Numbers.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/07. Index of letters.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/05. Most frequent number.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/001. PHP BASICS SYNTAX/06. Max sequence of increasing elements.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Validity Checker.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Validity Checker.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/LastDigitsName.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03.LastDigitName.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Last Digit Name.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/04. Number in reverse order.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/Opinin Poll.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/01. PHP Basic syntax/06. Max sequence of increasing elements.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/01. PHP Basic syntax/07. Index of letters.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/01. PHP Basic syntax/05. Most frequent number.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. LastDigitName.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/02. Modify Average.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/01. Cooking by numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/05. Opinion Poll.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/06. Company Roster.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="167" column="41" selection-end-line="169" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/004. Task/Person.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/003. Task/index.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/07. Game.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/001. Task/Task 001.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/002. Task/Forum.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/002. Task/index.php" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/Login-PHP/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/Tasks.txt" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/02. Dump an HTTP GET Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
