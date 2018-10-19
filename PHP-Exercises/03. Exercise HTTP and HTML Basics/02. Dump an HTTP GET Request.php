@@ -13,7 +13,7 @@
 </form>
 
 <?php
-
+/*
 $arrForm = [];
 
 if (isset($_GET['personName']) &&
@@ -24,5 +24,6 @@ if (isset($_GET['personName']) &&
     $arrForm [2] = $_GET['townId'];
 }
    var_dump($arrForm);
-
+*/
+var_dump($_GET);
 ?>

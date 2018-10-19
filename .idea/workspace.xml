@@ -10,17 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="03. Sum Two Numbers.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,9 +38,14 @@
         <option value="$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/07. Game.module" />
         <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/Tasks.txt" />
         <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.module" />
-        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php" />
         <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/02. Dump an HTTP GET Request.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/04. Sort Lines.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php" />
         <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/05. Extract Capital - Case Words.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/06. Word Mapping.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/07. Coloring Texts.php" />
+        <option value="$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/09. HTML Table.php" />
       </list>
     </option>
   </component>
@@ -68,8 +63,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
+    <option name="x" value="1117" />
+    <option name="width" value="805" />
     <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
@@ -163,15 +158,16 @@
       <workItem from="1539001581661" duration="9699000" />
       <workItem from="1539785934350" duration="3377000" />
       <workItem from="1539802405549" duration="413000" />
+      <workItem from="1539884724600" duration="3036000" />
+      <workItem from="1539963780121" duration="6172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24659000" />
+    <option name="totallyTimeSpent" value="33867000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1032" extended-state="0" />
-    <editor active="true" />
+    <frame x="1117" y="0" width="805" height="1032" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
@@ -180,7 +176,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33681765" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329849" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31108597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2825789" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,13 +226,7 @@
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/LastDigitsName.php" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03.LastDigitName.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. Last Digit Name.module" />
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/04. Number in reverse order.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/04. Number in reverse order.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/Opinin Poll.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/01. PHP Basic syntax/06. Max sequence of increasing elements.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -247,13 +237,7 @@
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/01. PHP Basic syntax/05. Most frequent number.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. LastDigitName.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/03. LastDigitName.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/02. Modify Average.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58">
@@ -268,29 +252,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/05. Opinion Poll.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/06. Company Roster.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="167" column="41" selection-end-line="169" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/05. Opinion Poll.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/06. Company Roster.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/004. Task/Person.php" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/003. Task/index.php" />
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/07. Game.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1827">
-          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/07. Game.module" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/001. Task/Task 001.php" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/002. Task/Forum.php" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/02. Exercise Functions, Objects and Classes/002. Task/index.php" />
@@ -299,24 +265,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/Tasks.txt" />
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.module" />
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/02. Dump an HTTP GET Request.php">
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        <state relative-caret-position="189">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/01. Hello Person.php">
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/02. Dump an HTTP GET Request.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="588">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/03. Sum Two Numbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        <state relative-caret-position="315">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/04. Sort Lines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/05. Extract Capital - Case Words.module" />
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/06. Word Mapping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/05. Extract Capital - Case Words.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="215" column="9" selection-start-line="215" selection-start-column="9" selection-end-line="215" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/07. Coloring Texts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Exercises/03. Exercise HTTP and HTML Basics/09. HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

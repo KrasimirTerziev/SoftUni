@@ -37,30 +37,8 @@ Problem 7. Coloring Texts
 character according to its ASCII value and prints the result. If the ASCII value of a character is odd, the character
 should be printed in blue. If it’s even, it should be printed in red.For the colors use the <span> tag.
 
-
-Problem 8. Navigation Builder
-
- Write a PHP program Navigation.php that takes data from several input fields and builds 3 navigation bars. The
-input fields are categories with attribute name=”categories”, tags with attribute name=”tags” and months with
-attribute name=”tags”. The first navigation bar should contain a list of the categories, the second navigation bar – a
-list of the tags and the third should contain the months. The entries in the input strings will be separated by a
-comma and space ",". When you print your result don’t forget to use <h2> tag for “Categories”, “Tags”, and
-“Months”. Semantic HTML is required.
-
-Problem 9. HTML Table
+Problem 8. HTML Table
 
  Write a PHP script InformationTable.php which generates an HTML table by given information about a person
 (name, phone number, age, address). The result should be printed as an HTML table with border attribute set to 2
 and background color: ‘orange’.
-
-Problem 10. Form Data
-
- Write a PHP script GetFormData.php which retrieves the input data from an HTML form, and displays it as string.
-The input fields should hold name, age and gender (radio buttons). The returned string should be a message
-containing the information submitted by the form. 100% accuracy is NOT required. Semantic HTML is required.
-
-Problem 11. ** Awesome Calendar
-
- Write a PHP script AwesomeCalendar.php which creates a calendar in HTML for a given year. Styling the calendar is
-optional. Semantic HTML is required. Hint: Embed HTML in your PHP code. Use tables or divs for structuring the
-calendar. Look for a way to find the day of the week.
