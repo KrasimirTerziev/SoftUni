@@ -1,8 +1,8 @@
-function sum(n, m) {
+function solve(n, m) {
 
     let num1 = +n;
     let num2 = +m;
-    let result;
+    let result = 0;
 
     for (let i = num1; i <= num2; i++) {
        result += i;
@@ -11,4 +11,4 @@ function sum(n, m) {
     return result;
 }
 
-sum('2', '9');
+solve('2', '9');
